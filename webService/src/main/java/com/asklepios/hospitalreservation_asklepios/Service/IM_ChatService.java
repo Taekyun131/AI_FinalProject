@@ -21,7 +21,7 @@ public class IM_ChatService implements IF_ChatService {
         System.out.println("Service");
         System.out.println(userMessage);
 
-        String API_URL = "http://localhost:5100/chatbot";
+        String API_URL = "http://54.180.120.47:5100/chatbot";
 
         JSONObject requestJson = new JSONObject();
         requestJson.put("message", userMessage);
@@ -41,7 +41,7 @@ public class IM_ChatService implements IF_ChatService {
         System.out.println("Service");
         System.out.println(symptoms);
 
-        String url = "http://localhost:5000/predict"; // Python Flask 서버 주소
+        String url = "http://54.180.120.47:5000/predict"; // Python Flask 서버 주소
 
         // JSON 데이터 생성
         Map<String, String> requestBody = new HashMap<>();
