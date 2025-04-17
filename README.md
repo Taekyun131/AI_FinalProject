@@ -1,11 +1,8 @@
 # :hospital: HospitalReservation_Asklepios v2.0
 ## :pushpin: 개발목적
-<div>
-  -병원진료 시 환자의 불만 중 긴 대기 시간이라는 불편함을 해소하기 위해<br>
-        원하는 병원과 시간대를 예약할 수 있는 병원예약 플랫폼 개발<br><br>
-  -인공지능 기능을 추가해 사용자가 보다 쉽고 편리하게 사용가능
-  <br><br>
-</div>
+####  :small_blue_diamond: 병원진료 시 긴 대기 시간이라는 불편함을 해소하기 위해 원하는 병원과 시간대를 예약할 수 있는 병원예약 웹 어플리케이션 개발<br><br>
+####  :small_blue_diamond: 인공지능 기능을 추가해 사용자가 보다 쉽고 편리하게 사용가능
+
 
 ## :pushpin: 프로젝트 개요
 ####  :small_blue_diamond: 개발기간 -  2025년 01월 23일 ~ 2025년 02월 25일
@@ -44,11 +41,17 @@
  ####  :small_blue_diamond: 병원검색 - 검색필터, 키워드로 검색, 병원 상세정보, 리뷰, 별점, 병원예약, 병원 목록 엑셀파일로 저장기능 <br>
  ####  :small_blue_diamond: 병원등록 - 의사회원이 병원 세부정보를 입력해 병원등록 <br>
  ####  :small_blue_diamond: 병원찾기 - 카카오맵 API를 사용한 병원찾기, 현재 위치 기반 병원추천, 병원예약 <br>
- ####  :small_blue_diamond: 게시판 - 게시글 CRUD, 조회수 및 좋아요 기능 <br><br><br>
+ ####  :small_blue_diamond: 게시판 - 게시글 CRUD, 조회수 및 좋아요 기능, 페이징 <br><br><br>
 
 ## :pushpin: 추가된 기능
 ####  :small_blue_diamond: 로그인 - OAuth2 인증을 사용한 소셜 로그인
 ####  :small_blue_diamond: 병원검색 - 병원 조회시 병원 방문자 성비, 시간대별 방문자 수, 방문자 나이대 그래프 출력
 ####  :small_blue_diamond: QnA - 사용자가 질문 작성 시 의사회원이 답변
-####  :small_blue_diamond: 게시판 - 게시글 정렬기준을 작성날짜, 조회수, 좋아요 중 하나로 설정 
-####  :small_blue_diamond: 인공지능 - 기본적인 사용법에 대한 챗봇, 진료과목 추천 챗봇, QnA 자동답변, 피부사진으로 피부질환 예측
+####  :small_blue_diamond: 게시판 - 게시글 정렬기준을 작성날짜, 조회수, 좋아요 중 하나로 설정, 파일 업로드 및 다운로드 
+####  :small_blue_diamond: 인공지능 - 기본적인 사용법에 대한 챗봇, 진료과목 추천 챗봇, QnA 자동답변, 피부사진으로 피부질환 예측 <br><br><br>
+
+## :pushpin: 담당한 개발파트
+####  :small_blue_diamond: 로그인 - 스프링 시큐리티 적용, OAuth2 인증을 사용한 소셜 로그인 <br>
+####  :small_blue_diamond: 병원검색 - 검색필터, 키워드로 검색, 병원 상세정보, 리뷰, 별점, 병원예약, 병원 목록 엑셀파일로 저장기능, 병원 방문자 관련 차트 출력  <br>
+####  :small_blue_diamond: 게시판 - 게시글 CRUD, 조회수 및 좋아요 기능, 페이징, 게시글 정렬 필터, 파일 업로드 및 다운로드
+####  :small_blue_diamond: 인공지능 - 피부사진으로 피부질환 예측<br>
