@@ -2,12 +2,12 @@
 ## :pushpin: 개발목적
 ####  :small_blue_diamond: 병원진료 시 긴 대기 시간이라는 불편함을 해소하기 위해 원하는 병원과 시간대를 예약할 수 있는 병원예약 웹 어플리케이션 개발<br><br>
 ####  :small_blue_diamond: 인공지능 기능을 추가해 사용자가 보다 쉽고 편리하게 사용가능
-
+  <br><br>
 
 ## :pushpin: 프로젝트 개요
 ####  :small_blue_diamond: 개발기간 -  2025년 01월 23일 ~ 2025년 02월 25일
 #### :small_blue_diamond: 개발인원 - 4명
-
+  <br><br>
 
 ## :pushpin: 개발환경
 ####  :small_blue_diamond: FRONTEND
@@ -29,10 +29,16 @@
   <br>
   <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>&nbsp
   <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white"/>&nbsp
-  <br>
-  <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>&nbsp
+ 
+
+
+</div>
+
+#### :small_blue_diamond: IDE
+<div>
+   <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>&nbsp
   <img src="https://img.shields.io/badge/intellij-000000.svg?style=for-the-badge&logo=intellijidea&logoColor=white"/>&nbsp
-  <br><br>
+      <br><br>
 </div>
 
  ## :pushpin: 이전버전 주요기능
